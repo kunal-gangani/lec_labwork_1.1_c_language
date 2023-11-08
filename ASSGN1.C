@@ -5,9 +5,10 @@ void main(){
 	printf("Hello\n");
 	printf("My name is Kunal Gangani..\n");
 	printf("I am 18 years old..\n");
-	printf("I am studying in SDJ International College, Vesu..\n");
+	printf("I am  in SDJ International College, Vesu..\n");
 	printf("I am pursuing BCA in my college..\n");
 	printf("My GRID is 7106..\n");
 	printf("My locality is Amroli..");
+	printf("Hello I am Flutter Developer")
 	getch();
 }
